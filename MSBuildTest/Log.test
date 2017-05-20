@@ -1,0 +1,75 @@
+﻿ALL 2017/5/20 17:49:03
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+
+ALL 2017/5/20 17:50:20
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+
+ALL 2017/5/20 17:50:37
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+
+ALL 2017/5/20 17:52:40
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+ad 
+ALL 2017/5/20 17:53:00
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+ad 
+ALL 2017/5/20 18:00:36
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc C:\Users\jhon\Documents\Visual Studio 2015\Projects\MSBuildTest\MSBuildTest
+ALL 2017/5/20 18:04:24
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:05:04
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc C:\Program Files (x86)\MSBuild\14.0\bin
+ALL 2017/5/20 18:05:56
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc C:\Users\jhon\Documents\Visual Studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.csproj
+ALL 2017/5/20 18:06:28
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc Build
+ALL 2017/5/20 18:07:15
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:07:52
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:08:52
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc bin\Debug\
+ALL 2017/5/20 18:12:26
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc ..\
+ALL 2017/5/20 18:16:19
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:20:34
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:21:39
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:22:17
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc Debug
+ALL 2017/5/20 18:22:46
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:23:34
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc bin\Debug\
+ALL 2017/5/20 18:25:09
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:25:40
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc 
+ALL 2017/5/20 18:26:03
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc C:\Users\jhon\Documents\Visual Studio 2015\Projects\MSBuildTest\MSBuildTest
+ALL 2017/5/20 18:26:44
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc C:\Users\jhon\Documents\Visual Studio 2015\Projects\MSBuildTest\MSBuildTest\Debug
+ALL 2017/5/20 18:27:22
+ll  C:\Program Files (x86)\MSBuild\14.0\bin\
+bc C:\Users\jhon\Documents\Visual Studio 2015\Projects\MSBuildTest\MSBuildTest\bin\Debug\
